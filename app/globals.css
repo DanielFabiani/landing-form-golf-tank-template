@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ── Heritage Greens — Design Tokens (CSS custom properties) ── */
+:root {
+  --primary:              #002103;
+  --primary-container:    #103812;
+  --on-primary:           #ffffff;
+  --secondary:            #52652a;
+  --secondary-container:  #d2e8a0;
+  --on-secondary:         #ffffff;
+  --tertiary-fixed:       #e5e96d;
+  --background:           #f9f9f9;
+  --surface:              #ffffff;
+  --surface-container-low:#f3f3f3;
+  --on-surface:           #1a1c1c;
+  --on-surface-variant:   #42493f;
+  --outline:              #72796f;
+  --outline-variant:      #c2c9bd;
+}
