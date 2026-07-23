@@ -9,7 +9,7 @@
 // ── Identidad ────────────────────────────────────────────────
 export const EVENT = {
   name:        'Golf Tank',
-  edition:     'Edición I · 2026',
+  edition:     '(Template) Edición 1  |  2026',
   badgeText:   'Club House Golf Pilará · Buenos Aires · Edición I',
   tagline:     'Golf Tank', 
   date: {
@@ -30,7 +30,7 @@ export const EVENT = {
 
   // ── Imagen del hero ──────────────────────────────────────────
   // Reemplazá por una URL propia o colocá el archivo en /public/hero.jpg
- /*  heroImage: 'https://lh3.googleusercontent.com/aida-public/AB6AXuAi54gOPSlv6sowDEQxeu-iRcShcRgZTsBosbYYtt8aHVb4q5gHuCMf-Qu8q0CPFOAzacIZ-GIwHkMPhQPbjO2rsSZj2Ep4gvbCn6jYXP_TAZTrlvdk796b-0tetOoaUV_uFs_aYUE0PrH8K9QD9dSbchLr1-8PQVyiXKfhLF71TXVbFR_HbVlvb8dz-nXImw0wOOIjBqCDNaJwIMt8Py-t-ZtZfTkSICTnDdIN9ipXLKR8dCB6U3SEgZNaqXhROXulNSa3UPZNOIk', */
+  /*  heroImage: 'https://lh3.googleusercontent.com/aida-public/AB6AXuAi54gOPSlv6sowDEQxeu-iRcShcRgZTsBosbYYtt8aHVb4q5gHuCMf-Qu8q0CPFOAzacIZ-GIwHkMPhQPbjO2rsSZj2Ep4gvbCn6jYXP_TAZTrlvdk796b-0tetOoaUV_uFs_aYUE0PrH8K9QD9dSbchLr1-8PQVyiXKfhLF71TXVbFR_HbVlvb8dz-nXImw0wOOIjBqCDNaJwIMt8Py-t-ZtZfTkSICTnDdIN9ipXLKR8dCB6U3SEgZNaqXhROXulNSa3UPZNOIk', */
 
   // ── Agenda ───────────────────────────────────────────────────
   agenda: [
@@ -50,7 +50,7 @@ export const EVENT = {
 
   // ── SEO / Meta ────────────────────────────────────────────────
   meta: {
-    title:       'Golf Tank — Club House Golf Pilará · 11 de Junio 2026',
+    title:       '(Template) Edición 1  |  2026',
     description: 'Torneo por invitación. 20 jugadores. Club House Golf Pilará, Buenos Aires',
     ogImage:     '/logo-golf-tank-social.png',
   },

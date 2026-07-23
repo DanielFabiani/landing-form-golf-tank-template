@@ -22,7 +22,7 @@ export default function Hero() {
           className="text-sm sm:text-xl font-semibold tracking-[0.18em] uppercase text-white mb-2 sm:mb-6 animate-fadeUp"
           style={{ animationDelay: "0.1s" }}
         >
-          Edición 1 &nbsp;|&nbsp; 2026
+          (Template) Edición 1 &nbsp;|&nbsp; 2026
         </p>
         <p
           className="text-[10px] sm:text-sm font-light tracking-[0.18em] uppercase text-white/50 mb-6 sm:mb-6 animate-fadeUp"
